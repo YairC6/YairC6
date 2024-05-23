@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 👯 I’m looking to collaborate on **environmental research**
+- 👯 I’m looking to collaborate on **Environmental research**
 
-- 🤝 I’m looking for help with **SQL,PYTHON,R**
+- 🤝 I’m looking for help with **SQL,PYTHON,R, Tableau and Power BI**
 
 - 📫 How to reach me **ycarrillom123@gmail.com**
 
