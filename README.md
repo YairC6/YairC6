@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yair</h1>
 <h3 align="center">A passionate Data Analyst from México</h3>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python for a macine learning**
 
 - 👯 I’m looking to collaborate on **Data-Driven Decisions**
 
