@@ -1,17 +1,59 @@
 <h1 align="center">Hi 👋, I'm Yair</h1>
-<h3 align="center">A passionate Data Analyst from México</h3>
+<h3 align="center">📊 Passionate Data Analyst from México</h3>
+
+---
 
 - 🌱 Currently learning **Python for Machine Learning**
-
 - 👯 Open to collaborating on **data-driven decision-making projects**
-
-- 🤝 Seeking support and sharing knowledge in **SQL, Python, R, Tableau, and Power BI**
-
+- 🤝 Seeking to grow in **SQL, Python, R, Tableau, and Power BI**
 - 📫 Reach me at: **ycarrillom123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📌 About Me
+
+I'm a data enthusiast focused on transforming raw data into valuable insights to support decision-making. I'm constantly improving my skills in statistics, machine learning, and data visualization.
+
+---
+
+## 💼 Projects
+
+### 🧼 Customer Churn Analysis
+- **Tools:** Python, Pandas, Matplotlib
+- Identified churn indicators using customer data from a telecom company.
+- [🔗 View Project](https://github.com/YairC6/customer-churn-analysis)
+
+### 📍 Pet Owner Spending Trends
+- **Tools:** SQL, Tableau
+- Created an interactive dashboard analyzing pet owner behavior by age and pet type.
+- [🔗 View Dashboard](https://public.tableau.com/your-dashboard-link)
+
+### 🏠 Airbnb Price Prediction
+- **Tools:** Python, Scikit-learn, Seaborn
+- Built a regression model to predict Airbnb prices based on location and property features.
+- [🔗 View Notebook](https://github.com/YairC6/airbnb-pricing)
+
+---
+
+## 🧰 Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yair-carrillo-maldonado-859594121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yair-carrillo-maldonado-859594121" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yair-carrillom" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: yair-carrillom" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
