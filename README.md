@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yair</h1>
 <h3 align="center">A passionate Data Analyst from México</h3>
 
-- 🌱 I’m currently learning **Python for a macine learning**
+- 🌱 Currently learning **Python for Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data-Driven Decisions**
+- 👯 Open to collaborating on **data-driven decision-making projects**
 
-- 🤝 I’m looking for help with **SQL,PYTHON,R, Tableau and Power BI**
+- 🤝 Seeking support and sharing knowledge in **SQL, Python, R, Tableau, and Power BI**
 
-- 📫 How to reach me **ycarrillom123@gmail.com**
+- 📫 Reach me at: **ycarrillom123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
