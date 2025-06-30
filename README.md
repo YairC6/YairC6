@@ -19,7 +19,7 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 ## 💼 Projects
 
 ### 🧼 Super market US
-- **Tools:** Python, Pandas, Matplotlib
+- **Tools:** SQL, Tableau
 - Identified churn indicators using customer data from a telecom company.
 - [🔗 View Project](https://github.com/YairC6/customer-churn-analysis)
 
