@@ -18,7 +18,7 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ## 💼 Projects
 
-### 🧼 Customer Churn Analysis
+### 🧼 Super market US
 - **Tools:** Python, Pandas, Matplotlib
 - Identified churn indicators using customer data from a telecom company.
 - [🔗 View Project](https://github.com/YairC6/customer-churn-analysis)
