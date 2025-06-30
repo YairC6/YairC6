@@ -21,7 +21,7 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 ### 🛒 Super market US
 - **Tools:** SQL, Tableau
 - Identified churn indicators using customer data from a telecom company.
-- [🔗 View Project](https://github.com/YairC6/customer-churn-analysis)
+-https://public.tableau.com/views/P1_17216841722280/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 📍 Pet Owner Spending Trends
 - **Tools:** SQL, Tableau
