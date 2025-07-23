@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 Currently learning **Python for Machine Learning**
-- 👯 Open to collaborating on **data-driven decision-making projects**
-- 🤝 Seeking to grow in **SQL, Python, R, Tableau, and Power BI**
+- 📖 Currently learning **Python for Machine Learning**
+- 🤝 Open to collaborating on **data-driven decision-making projects**
+- 🌱 Seeking to grow in **SQL, Python, R, Tableau, and Power BI**
 - 📫 Reach me at: **ycarrillom123@gmail.com**
 
 ---
@@ -18,19 +18,19 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ## 💼 Data Analyst Portfolio
 
-### 🚗 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
+### 📱 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
 - **Tools:** Powerquery Excel, Python, pandas, matplotlib, seaborn, Jupyter Notebook
 - This project analyzes the growth, user preferences, and behavior on mobility platforms such as Uber and DiDi in Mexico. The analysis is based on real-world data obtained from Sensor Tower and Statista, covering the years from 2018 to 2024.
 - 📂[Analysis of Transportation Platforms in Mexico (Uber and DiDi)](https://github.com/YairC6/Analysis-of-Transportation-Platforms-in-Mexico-Uber-and-DiDi-)
 
-### 🛒 Financial Analysis SM
+### 🏪 Financial Analysis SM
 - **Tools:** SQL, Tableau
 - Identify the top-performing office supply stores in the United States from 2019 to 2022.
 - 📂[Financial Analysis SM](https://github.com/YairC6/Financial-Analysis-SM)
 
 ---
 
-## 🧰 Languages & Tools
+## 🐍/💻 Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
