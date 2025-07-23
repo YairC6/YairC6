@@ -30,7 +30,7 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ---
 
-## 🐍/💻 Languages & Tools
+## 💻 Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
