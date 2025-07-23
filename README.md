@@ -18,20 +18,16 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ## 💼 Projects
 
-### 🛒 Super market US
-- **Tools:** SQL, Tableau
-- Identified churn indicators using customer data from a telecom company.
--https://public.tableau.com/views/P1_17216841722280/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## 🚗 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
+- **Tools:** Powerquery Excel, Python, pandas, matplotlib, seabonr, Jupyter Notebook
+- This project analyzes the growth, user preferences, and behavior on mobility platforms such as Uber and DiDi in Mexico. The analysis is based on real-world data obtained from Sensor Tower and Statista, covering the years from 2018 to 2024.
+- [Analysis of Transportation Platforms in Mexico (Uber and DiDi)](https://github.com/YairC6/Analysis-of-Transportation-Platforms-in-Mexico-Uber-and-DiDi-)
 
-### 📍 Pet Owner Spending Trends
-- **Tools:** SQL, Tableau
-- Created an interactive dashboard analyzing pet owner behavior by age and pet type.
-- [🔗 View Dashboard](https://public.tableau.com/your-dashboard-link)
 
-### 🏠 Airbnb Price Prediction
-- **Tools:** Python, Scikit-learn, Seaborn
-- Built a regression model to predict Airbnb prices based on location and property features.
-- [🔗 View Notebook](https://github.com/YairC6/airbnb-pricing)
+### 🛒 Financial Analysis SM
+- **Tools:** SQL, Tableau
+- Identify the top-performing office supply stores in the United States from 2019 to 2022.
+-[Financial Analysis SM](https://github.com/YairC6/Financial-Analysis-SM)
 
 ---
 
