@@ -16,7 +16,7 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ---
 
-## 💼 Projects
+## 💼 Data Analyst Portfolio
 
 ## 🚗 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
 - **Tools:** Powerquery Excel, Python, pandas, matplotlib, seabonr, Jupyter Notebook
