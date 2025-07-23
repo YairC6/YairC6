@@ -18,8 +18,8 @@ I'm a data enthusiast focused on transforming raw data into valuable insights to
 
 ## 💼 Data Analyst Portfolio
 
-## 🚗 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
-- **Tools:** Powerquery Excel, Python, pandas, matplotlib, seabonr, Jupyter Notebook
+### 🚗 Analysis of Transportation Platforms in Mexico (Uber and DiDi)
+- **Tools:** Powerquery Excel, Python, pandas, matplotlib, seaborn, Jupyter Notebook
 - This project analyzes the growth, user preferences, and behavior on mobility platforms such as Uber and DiDi in Mexico. The analysis is based on real-world data obtained from Sensor Tower and Statista, covering the years from 2018 to 2024.
 - 📂[Analysis of Transportation Platforms in Mexico (Uber and DiDi)](https://github.com/YairC6/Analysis-of-Transportation-Platforms-in-Mexico-Uber-and-DiDi-)
 
