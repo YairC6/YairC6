@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yair</h1>
+<h1 align="center">Hi, I'm Yair</h1>
 <h3 align="center">📊 Passionate Data Analyst from México</h3>
 
 ---
